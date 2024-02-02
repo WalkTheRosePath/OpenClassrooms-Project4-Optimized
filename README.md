@@ -1,2 +1,2 @@
-﻿# WalkTheRosePath-WalkTheRosePath-OpenClassrooms-Project4-Optimized
- https://walktherosepath.github.io/WalkTheRosePath-WalkTheRosePath-OpenClassrooms-Project4-Optimized/
+﻿# OpenClassrooms-Project4-Optimized
+ https://walktherosepath.github.io/OpenClassrooms-Project4-Optimized/
